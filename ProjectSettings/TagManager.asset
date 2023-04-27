@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Death Barrier
+  - Hurt Barrier
+  - Ground
+  - Enemy
+  - LoginPage
+  - WelcomePage
+  - Sky
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Hero
+  - Water
+  - UI
+  - Very Far
+  - Far
+  - Near
+  - Close
+  - Closer
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Very Far
+    uniqueID: 2625847955
+    locked: 0
+  - name: Far
+    uniqueID: 3949358923
+    locked: 0
+  - name: Near
+    uniqueID: 3413514345
+    locked: 0
+  - name: Close
+    uniqueID: 1220373595
+    locked: 0
+  - name: Closer
+    uniqueID: 631555485
+    locked: 0
+  - name: Closest
+    uniqueID: 2241413829
+    locked: 0
+  - name: Hero
+    uniqueID: 1637969571
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
